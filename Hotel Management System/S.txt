@@ -1,0 +1,8 @@
+Watchman 10000
+Sweeper 8000
+Butler 12000
+Chef 30000
+Valet 10000
+Recep 20000
+Manager 120000
+Hou 12000

@@ -1,0 +1,15 @@
+1 Normal Available
+2 Normal Available
+3 Normal Booked
+4 Normal Booked
+5 Normal Booked
+6 Deluxe Booked
+7 Deluxe Booked
+8 Deluxe Booked
+9 Deluxe Booked
+10 Deluxe Booked
+11 Suite Booked
+12 Suite Available
+13 Suite Available
+14 Suite Available
+15 Suite Available
